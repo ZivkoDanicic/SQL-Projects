@@ -1,8 +1,8 @@
 # SQL-Projects
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
-**Analyzing Employee Trends**
-[Analyzing Employee Trends.csv](Analyzing Employee Trends.sql)
+**AdventureWorks Database** — 
+Microsoft product sample for an online transaction processing database. It supports a fictitious, multinational manufacturing company that sells bicycles and cycling accessories.
 
 **Project Description**
 This project involved performing extensive analysis on HR employee data to uncover insights and trends. The data contained information on employees across departments, including demographics, job roles, satisfaction, attrition and more.
